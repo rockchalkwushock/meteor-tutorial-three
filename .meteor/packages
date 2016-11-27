@@ -23,3 +23,12 @@ insecure@1.0.7                # Allow all DB writes from clients (for prototypin
 ewall:foundation
 aldeed:collection2
 iron:router
+
+dburles:collection-helpers
+accounts-base
+accounts-password
+alanning:roles
+twbs:bootstrap
+fortawesome:fontawesome
+less
+yogiben:admin
